@@ -1,0 +1,425 @@
+{
+    "informatique": [
+        [
+            "Pearl",
+            "https://www.pearl.fr/",
+            ""
+        ],
+        [
+            "Malekal",
+            "https://www.malekal.com/",
+            ""
+        ],
+        [
+            "Tech2Tech",
+            "https://www.tech2tech.fr/categorie/logiciels/outils-du-tech/",
+            ""
+        ]
+    ],
+    "En Ligne": [
+        [
+            "Glide",
+            "https://go.glideapps.com/o/33q5lCo1qMXKhocQJJ0c",
+            ""
+        ],
+        [
+            "Tools PDF24",
+            "https://tools.pdf24.org/fr/",
+            ""
+        ],
+        [
+            "YouTube Miniature",
+            "https://yt-thumb.canbeuseful.com/#youtube-thumbnail",
+            ""
+        ],
+        [
+            "PNGKit",
+            "https://www.pngkit.com/",
+            ""
+        ],
+        [
+            "FlamingText",
+            "https://flamingtext.com/logo/Design-Memories-Animation?text=BDSM&fontname=zwisdom",
+            ""
+        ],
+        [
+            "Canva",
+            "https://www.canva.com/",
+            ""
+        ],
+        [
+            "Google Photos",
+            "https://photos.google.com/u/1/albums?hl=fr&pli=1",
+            ""
+        ],
+        [
+            "Icones Gratuit",
+            "https://icon-icons.com/fr/",
+            ""
+        ],
+        [
+            "Trustpilot",
+            "https://fr.trustpilot.com/",
+            ""
+        ]
+    ],
+    "Youtube": [
+        [
+            "Apprendre Python",
+            "https://www.youtube.com/watch?v=I8PGgRPT-HI&list=PL-ptk2OodXm4GO_5RJ0yftO7gEFYUKpde&index=3",
+            ""
+        ],
+        [
+            "Style intégrées à tkinter",
+            "https://www.youtube.com/watch?v=nE1otFYO0Ss&list=PLpMixYKO4EXcKoRTvN0FdNaUNobV0QGFQ",
+            ""
+        ],
+        [
+            "Tutoriels Salih",
+            "https://www.youtube.com/@SalihTutorials/videos",
+            ""
+        ],
+        [
+            "Foggy Mountain Rockers",
+            "https://www.youtube.com/channel/UCAQkDfBwQh_85jjcxLxkUKA",
+            ""
+        ],
+        [
+            "Vicente Joes",
+            "https://www.youtube.com/@vicentejoesj-v/videos",
+            ""
+        ],
+        [
+            "InsaniAcademy",
+            "https://www.youtube.com/@InsaniAcademy/videos",
+            ""
+        ]
+    ],
+    "Mail": [
+        [
+            "Dropbox",
+            "https://www.dropbox.com/home",
+            ""
+        ],
+        [
+            "Outlook (web)",
+            "https://outlook.live.com/",
+            ""
+        ],
+        [
+            "Google Drive",
+            "https://drive.google.com/",
+            ""
+        ],
+        [
+            "Gmail",
+            "https://mail.google.com/mail/u/0/#inbox",
+            ""
+        ]
+    ],
+    "Traduction": [
+        [
+            "Google Traduction",
+            "https://translate.google.fr/",
+            ""
+        ],
+        [
+            "OnlineDocTranslator",
+            "https://www.onlinedoctranslator.com/fr/",
+            ""
+        ]
+    ],
+    "Achat En Ligne": [
+        [
+            "IDLC",
+            "https://www.ldlc.com/",
+            ""
+        ],
+        [
+            "Cybertek",
+            "https://www.cybertek.fr/boutique/index.aspx",
+            ""
+        ],
+        [
+            "Cdiscount",
+            "https://www.cdiscount.com/",
+            ""
+        ],
+        [
+            "Manomano",
+            "https://www.manomano.fr/",
+            ""
+        ],
+        [
+            "Leroymerlin",
+            "https://www.leroymerlin.fr/",
+            ""
+        ],
+        [
+            "Top Achat",
+            "https://www.topachat.com/",
+            ""
+        ],
+        [
+            "Le Bon Coin",
+            "https://www.leboncoin.fr",
+            ""
+        ],
+        [
+            "Grosbill",
+            "https://www.grosbill.com/",
+            ""
+        ],
+        [
+            "Peinture Destock",
+            "https://peinture-destock.com/",
+            ""
+        ]
+    ],
+    "Dev & Ia": [
+        [
+            "DigitalOcean (tuto)",
+            "https://www.digitalocean.com/community/tutorials/how-to-use-subprocess-to-run-external-programs-in-python-3-fr",
+            ""
+        ],
+        [
+            "ChatGPT",
+            "https://chatgpt.com/",
+            ""
+        ],
+        [
+            "Tkinter YouTube",
+            "https://www.youtube.com/watch?v=nE1otFYO0Ss&list=PLpMixYKO4EXcKoRTvN0FdNaUNobV0QGFQ",
+            ""
+        ],
+        [
+            "Code Couleur HTML",
+            "https://www.toutes-les-couleurs.com/code-couleur-html.php",
+            ""
+        ],
+        [
+            "Docs Python (tkinter)",
+            "https://docs.python.org/fr/3/library/tkinter.html",
+            ""
+        ],
+        [
+            "Python GUIs",
+            "https://www.pythonguis.com/tutorials/tkinter-radiobutton-and-checkbutton/",
+            ""
+        ]
+    ],
+    "Site Perso": [
+        [
+            "France Travail",
+            "https://www.francetravail.fr/accueil/",
+            ""
+        ],
+        [
+            "caisse-epargne",
+            "https://www.caisse-epargne.fr/espace-client/compte",
+            ""
+        ]
+    ],
+    "Outil": [
+        [
+            "VirusTotal",
+            "https://www.virustotal.com/",
+            ""
+        ],
+        [
+            "Facture en Ligne",
+            "https://www.facturedevis.fr/",
+            ""
+        ],
+        [
+            "Miniature YouTube",
+            "https://yt-thumb.canbeuseful.com/fr#youtube-thumbnail",
+            ""
+        ],
+        [
+            "Sous-titres YouTube",
+            "https://downsub.com/",
+            ""
+        ],
+        [
+            "remove.bg",
+            "https://www.remove.bg/fr",
+            ""
+        ]
+    ],
+    "Musique": [
+        [
+            "Black Raven",
+            "https://www.youtube.com/channel/UCGJhFPHNc7jHqTwtLjsUxGg",
+            ""
+        ],
+        [
+            "Crazy Cavan",
+            "https://www.youtube.com/channel/UC7rS1uXMS82-6kVAP4pxuYA/playlists",
+            ""
+        ],
+        [
+            "Foggy Mountain Rockers",
+            "https://www.youtube.com/channel/UCAQkDfBwQh_85jjcxLxkUKA",
+            ""
+        ],
+        [
+            "Vicente Joes",
+            "https://www.youtube.com/@vicentejoesj-v/videos",
+            ""
+        ],
+        [
+            "Claude Rockabilly",
+            "https://www.youtube.com/@clauderockabilly5573/videos",
+            ""
+        ]
+    ],
+    "Image Libre": [
+        [
+            "pixabay",
+            "https://pixabay.com/fr/",
+            ""
+        ],
+        [
+            "pexels",
+            "https://www.pexels.com/fr-fr/",
+            ""
+        ],
+        [
+            "unsplash",
+            "https://unsplash.com/fr",
+            ""
+        ]
+    ],
+    "Scrape Mail": [
+        [
+            "captainverify",
+            "https://captainverify.com/fr/mail-tester.html",
+            ""
+        ],
+        [
+            "spunkyworld",
+            "https://www.spunkyworld.com/demos/extractor.htm",
+            ""
+        ]
+    ],
+    "Site Programmation": [
+        [
+            "pythonguis",
+            "https://www.pythonguis.com/tutorials/tkinter-radiobutton-and-checkbutton/",
+            ""
+        ],
+        [
+            "docs.python.org",
+            "https://docs.python.org/fr/3/tutorial/venv.html",
+            ""
+        ],
+        [
+            "selenium-python",
+            "https://selenium-python.readthedocs.io/installation.html",
+            ""
+        ],
+        [
+            "customtkinter",
+            "https://customtkinter.tomschimansky.com/documentation/appearancemode",
+            ""
+        ],
+        [
+            "Google Fonts",
+            "https://fonts.google.com/icons?icon.set=Material+Icons&icon.style=Filled&icon.category=communication",
+            ""
+        ],
+        [
+            "pierre-giraud",
+            "https://www.pierre-giraud.com/python-apprendre-programmer-cours/introduction-gestion-erreur-exception/",
+            ""
+        ],
+        [
+            "chatgpt.",
+            "https://chatgpt.com/?ref=dotcom",
+            ""
+        ],
+        [
+            "qwen.ai",
+            "https://chat.qwen.ai/",
+            ""
+        ],
+        [
+            "yiaho",
+            "https://www.yiaho.com/",
+            ""
+        ],
+        [
+            "online-conver",
+            "https://image.online-convert.com/fr/convertir-en-ico",
+            ""
+        ]
+    ],
+    "Logiciel En Ligne": [
+        [
+            "ilovepdf",
+            "https://www.ilovepdf.com/fr",
+            ""
+        ],
+        [
+            "photopea",
+            "https://www.photopea.com/",
+            ""
+        ],
+        [
+            "pfpmaker",
+            "https://ai.pfpmaker.com/dashboard",
+            ""
+        ],
+        [
+            "3dgifmaker.com",
+            "https://www.3dgifmaker.com/360Spin",
+            ""
+        ],
+        [
+            "printfriendly",
+            "https://www.printfriendly.com/fr",
+            ""
+        ],
+        [
+            "savetube",
+            "https://ytube.savetube.me/fr/31-youtube-playlist-downloader-new",
+            ""
+        ],
+        [
+            "onlinedoctranslator.com",
+            "https://www.onlinedoctranslator.com/fr/translationform",
+            ""
+        ],
+        [
+            "notube",
+            "https://notube.lol/fr/youtube-app-288",
+            ""
+        ],
+        [
+            "https://emoji.aranja.com/",
+            "https://emoji.aranja.com/",
+            ""
+        ],
+        [
+            "https://www.remove.bg/fr",
+            "https://www.remove.bg/fr",
+            ""
+        ],
+        [
+            "http://www.facturedevis.fr/",
+            "http://www.facturedevis.fr/",
+            ""
+        ],
+        [
+            "http://www.parchance.fr/",
+            "http://www.parchance.fr/",
+            ""
+        ],
+        [
+            "https://downsub.com/",
+            "https://downsub.com/",
+            ""
+        ]
+    ]
+}
